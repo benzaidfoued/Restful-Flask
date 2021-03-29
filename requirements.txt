@@ -24,7 +24,7 @@ marshmallow-sqlalchemy==0.13.1
 nose2==0.6.5
 passlib==1.7.1
 psycopg2==2.7.3
-Pygments==2.2.0
+Pygments==2.7.4
 python-dateutil==2.6.1
 python-editor==1.0.3
 pytz==2017.2
